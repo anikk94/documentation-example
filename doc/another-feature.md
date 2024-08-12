@@ -95,7 +95,7 @@ int main()
 }
 ```
 
-```{literalinclude} example.py
+```{literalinclude} src/example.py
 :language: python
 :emphasize-lines: 13-14
 ```
