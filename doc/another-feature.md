@@ -94,7 +94,8 @@ int main()
     return 0;
 }
 ```
-
+external file include: python file with emphasized lines
+visible if file sourced properly
 ```{literalinclude} src/example.py
 :language: python
 :emphasize-lines: 13-14
