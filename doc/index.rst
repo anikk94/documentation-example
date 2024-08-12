@@ -12,3 +12,5 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+   sphinx-and-latex.md
+   api.md
